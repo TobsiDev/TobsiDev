@@ -85,8 +85,8 @@ README examples https://github.com/abhisheknaiidu/awesome-github-profile-readme
     <summary><h1 align="center">Tobsi's GitHub stats :clipboard:</h1></summary>
 
 <p align="center">
-<a href="https://my-github-readme-stats.tobsi-0x.vercel.app/api?username=tobsi-0x&show_icons=true&theme=radical">
-<img src="https://my-github-readme-stats.tobsi-0x.vercel.app/api?username=tobsi-0x&show_icons=true&theme=radical" alt="Tobsi's GitHub stats" width="auto"/> <!-- dark, radical, tokyonight, onedark, cobalt, synthwave & dracula look's good -->
+<a href="https://my-github-readme-stats.tobsi-0x.vercel.app/api?username=tobsidev&show_icons=true&theme=radical">
+<img src="https://my-github-readme-stats.tobsi-0x.vercel.app/api?username=tobsidev&show_icons=true&theme=radical" alt="Tobsi's GitHub stats" width="auto"/> <!-- dark, radical, tokyonight, onedark, cobalt, synthwave & dracula look's good -->
 </a>
 </p>
 
@@ -97,8 +97,8 @@ README examples https://github.com/abhisheknaiidu/awesome-github-profile-readme
 </p>
 
 <p align="center">
-<a href="https://my-github-readme-stats.tobsi-0x.vercel.app/api/top-langs/?username=tobsi-0x&langs_count=5&theme=radical">
-<img src="https://my-github-readme-stats.tobsi-0x.vercel.app/api/top-langs/?username=tobsi-0x&langs_count=5&theme=radical" alt="Tobsi's GitHub coding stats" width="auto"/> <!-- dark, radical, tokyonight, onedark, cobalt, synthwave & dracula look's good -->
+<a href="https://my-github-readme-stats.tobsi-0x.vercel.app/api/top-langs/?username=tobsidev&langs_count=5&theme=radical">
+<img src="https://my-github-readme-stats.tobsi-0x.vercel.app/api/top-langs/?username=tobsidev&langs_count=5&theme=radical" alt="Tobsi's GitHub coding stats" width="auto"/> <!-- dark, radical, tokyonight, onedark, cobalt, synthwave & dracula look's good -->
 </a>
 </p>
 
