@@ -98,7 +98,8 @@ README examples https://github.com/abhisheknaiidu/awesome-github-profile-readme
 
 <p align="center">
 <a href="https://my-github-readme-stats.tobsi-0x.vercel.app/api/top-langs/?username=tobsidev&langs_count=5&theme=radical">
-<img src="https://my-github-readme-stats.tobsi-0x.vercel.app/api/top-langs/?username=tobsidev&langs_count=5&theme=radical" alt="Tobsi's GitHub coding stats" width="auto"/> <!-- dark, radical, tokyonight, onedark, cobalt, synthwave & dracula look's good -->
+<img src="https://my-github-readme-stats.tobsi-0x.vercel.app/api/top-langs/?username=tobsidev&exclude_repo=Lockdoor-Framework,novatorem,github-readme-stats,TGB_Emulator,TEP,TC8E,&langs_count=5&theme=radical" alt="Tobsi's GitHub coding stats" width="auto"/> <!-- dark, radical, tokyonight, onedark, cobalt, synthwave & dracula look's good -->
+<!-- I also excluded some repos i didnt make. They are in the front of the exclude_repo part. and the rest is just some unfinished stuff.-->
 </a>
 </p>
 
