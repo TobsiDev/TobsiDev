@@ -1,5 +1,5 @@
 <h1 align="center">Hey I'm Tobsi :wave:</h1>
-<p align="center">I'm Tobsi a computer enthusiast :pencil2:.</p>
+<p align="center">A computer enthusiast :pencil2:</p>
 <!-- https://simpleicons.org/ & https://shields.io/ arbejder sammen 
 
 
