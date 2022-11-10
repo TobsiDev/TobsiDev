@@ -28,9 +28,9 @@ README examples https://github.com/abhisheknaiidu/awesome-github-profile-readme
 
 <img style="height:34px; width:auto;" alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&&logoColor=white" />&nbsp;
 <img style="height:34px; width:auto;" alt="C#" src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white" />&nbsp;
-<img style="height:34px; width:auto;" alt="Java" src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=Java&logoColor=black&messageColor=black" />&nbsp;
+<!-- <img style="height:34px; width:auto;" alt="Java" src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=Java&logoColor=black&messageColor=black" />&nbsp;
 <img style="height:34px; width:auto;" alt="HTML5" src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
-<img style="height:34px; width:auto;" alt="Markdown" src="https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />&nbsp;
+<img style="height:34px; width:auto;" alt="Markdown" src="https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />&nbsp; -->
 
 </div>
 
@@ -46,14 +46,14 @@ README examples https://github.com/abhisheknaiidu/awesome-github-profile-readme
 <img style="height:34px; width:auto;" alt="JetBrains" src="https://img.shields.io/badge/JetBrains-000000.svg?&style=for-the-badge&logo=JetBrains&logoColor=white"/>&nbsp;
 <br/>
 
-<div> <h4>Design: </h4><div/>
+<!--<div> <h4>Design: </h4><div/>
 
 <img style="height:34px; width:auto;" alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>&nbsp;
 <img style="height:34px; width:auto;" alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?&style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>&nbsp;
 <img style="height:34px; width:auto;" alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?&style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"/>&nbsp;
 <img style="height:34px; width:auto;" alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>&nbsp;
 <img style="height:34px; width:auto;" alt="Aseprite" src="https://img.shields.io/badge/Aseprite-7D929E.svg?&style=for-the-badge&logo=Aseprite&logoColor=white"/>&nbsp;
-<br/>
+<br/>-->
 
 <div><h4>Version Control: </h4></div>
 
@@ -68,12 +68,6 @@ README examples https://github.com/abhisheknaiidu/awesome-github-profile-readme
 <br/>
 
 </p>
-
-<div><h4>Don't use as often: </h4></div>
-
-<img style="height:34px; width:auto;" alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white"/>&nbsp;
-<img style="height:34px; width:auto;" alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?&style=for-the-badge&logo=Vercel&logoColor=white"/>&nbsp;
-<br/>
 
 </p>
 
