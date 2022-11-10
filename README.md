@@ -37,10 +37,6 @@ README examples https://github.com/abhisheknaiidu/awesome-github-profile-readme
 
 ### **Softwear/tools i use**:
 
-<p align="left">
-
-<div><h4>IDE: </h4></div>
-
 <img style="height:34px; width:auto;" alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white"/>&nbsp;
 <img style="height:34px; width:auto;" alt="JetBrains" src="https://img.shields.io/badge/JetBrains-000000.svg?&style=for-the-badge&logo=JetBrains&logoColor=white"/>&nbsp;
 <!--<img style="height:34px; width:auto;" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>&nbsp;-->
