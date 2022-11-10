@@ -1,5 +1,5 @@
 <h1 align="center">Hey I'm Tobsi :wave:</h1>
-<p align="center">I'm Tobsi a computer science student :pencil2:.</p>
+<p align="center">I'm Tobsi a computer nerd :pencil2:.</p>
 <!-- https://simpleicons.org/ & https://shields.io/ arbejder sammen 
 
 
@@ -42,7 +42,7 @@ README examples https://github.com/abhisheknaiidu/awesome-github-profile-readme
 <div><h4>IDE: </h4></div>
 
 <img style="height:34px; width:auto;" alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white"/>&nbsp;
-<img style="height:34px; width:auto;" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>&nbsp;
+<!--<img style="height:34px; width:auto;" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>&nbsp;-->
 <img style="height:34px; width:auto;" alt="JetBrains" src="https://img.shields.io/badge/JetBrains-000000.svg?&style=for-the-badge&logo=JetBrains&logoColor=white"/>&nbsp;
 <br/>
 
@@ -58,7 +58,7 @@ README examples https://github.com/abhisheknaiidu/awesome-github-profile-readme
 <div><h4>Version Control: </h4></div>
 
 <img style="height:34px; width:auto;" alt="Github" src="https://img.shields.io/badge/github-121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>&nbsp;
-<img style="height:34px; width:auto;" alt="GitKraken" src="https://img.shields.io/badge/GitKraken-179287.svg?&style=for-the-badge&logo=GitKraken&logoColor=white"/>&nbsp;
+<!--<img style="height:34px; width:auto;" alt="GitKraken" src="https://img.shields.io/badge/GitKraken-179287.svg?&style=for-the-badge&logo=GitKraken&logoColor=white"/>&nbsp;-->
 <br/>
 
 <div><h4>Other: </h4></div>
